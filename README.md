@@ -1,3 +1,3 @@
 # Table
 
-|Sl No| Name |Phone No | Hobbies |        
+| Sl No | Name |       
